@@ -1,0 +1,23 @@
+{
+  "name": "cobros_ars_crm",
+  "version": "1.0.0",
+  "description": "cobros ars ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Ing. Yonaides Tavares",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "apollo-server": "2.14.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.16"
+  },
+  "keywords": []
+}
